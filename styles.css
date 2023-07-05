@@ -1,0 +1,25 @@
+body{
+    border: 5px solid green;
+    width: 250px;
+    margin: 50px;
+
+    text-align:justify;
+}
+
+*{
+    background-color: blue;
+    font-size: 50px;
+}
+
+ul{
+    border: 5px solid beige;
+}
+
+#selector{
+    margin: 100px;
+}
+
+
+.somethink{
+    padding: 50px;
+}
